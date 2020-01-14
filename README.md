@@ -9,21 +9,14 @@ where,
 Corruption Perceptions Index is on X- Axis.
 Human Development Index is on Y- Axis.
 
-It is basically a Scatter Plot with some sort of  ' Trend Fit Line '.
+"10" is for the Least Corrupt Countries while, "1" is for the Most Corrupt Countries.
 
-"10" is the Least Corrupt Countries.
-while,
-"1" is the Most Corrupt Countries.
-
-  
 ############  Corrosive corruption  ################
-
- A correlation between corruption and development
+A correlation between corruption and development
 
 CPI - Transparency International's annual 'Corruption Perceptions Index''
 HDI - UN's 'Human Development Index'
 
- 
 Comparing the corruption index with the UN's Human Development Index i.e. A measure combining health, wealth and education
 It demonstrates an interesting connection.
 
